@@ -1,0 +1,106 @@
+start_eng,end_eng,edge_distance_km
+Whampoa,Ho Man Tin,0.850926964
+Ho Man Tin,Yau Ma Tei,1.414759802
+Yau Ma Tei,Mong Kok,0.633868415
+Mong Kok,Prince Edward,0.716348797
+Prince Edward,Shek Kip Mei,0.66340941
+Shek Kip Mei,Kowloon Tong,0.988834215
+Kowloon Tong,Lok Fu,1.187958555
+Lok Fu,Wong Tai Sin,0.759395543
+Wong Tai Sin,Diamond Hill,0.827572597
+Diamond Hill,Choi Hung,0.941941678
+Choi Hung,Kowloon Bay,1.405739338
+Kowloon Bay,Ngau Tau Kok,1.059476148
+Ngau Tau Kok,Kwun Tong,0.848560805
+Kwun Tong,Lam Tin,0.884335595
+Lam Tin,Yau Tong,1.460191704
+Yau Tong,Tiu Keng Leng,1.954101391
+Tsuen Wan,Tai Wo Hau,0.663338461
+Tai Wo Hau,Kwai Hing,1.05649447
+Kwai Hing,Kwai Fong,0.820156202
+Kwai Fong,Lai King,0.955708191
+Lai King,Mei Foo,1.70413066
+Mei Foo,Lai Chi Kok,1.033913738
+Lai Chi Kok,Cheung Sha Wan,1.004472144
+Cheung Sha Wan,Sham Shui Po,0.766870413
+Sham Shui Po,Prince Edward,0.846007694
+Prince Edward,Mong Kok,0.716348797
+Mong Kok,Yau Ma Tei,0.633868415
+Yau Ma Tei,Jordan,1.012476301
+Jordan,Tsim Sha Tsui,0.787085384
+Tsim Sha Tsui,Admiralty,2.181779167
+Admiralty,Central,0.764341864
+Kennedy Town,HKU,0.703061055
+HKU,Sai Ying Pun,0.809853991
+Sai Ying Pun,Sheung Wan,0.947150801
+Sheung Wan,Central,0.783580889
+Central,Admiralty,0.764341864
+Admiralty,Wan Chai,0.908193406
+Wan Chai,Causeway Bay,1.263063034
+Causeway Bay,Tin Hau,0.724383974
+Tin Hau,Fortress Hill,0.648148866
+Fortress Hill,North Point,0.800665604
+North Point,Quarry Bay,1.024064606
+Quarry Bay,Tai Koo,0.579561116
+Tai Koo,Sai Wan Ho,0.870987223
+Sai Wan Ho,Shau Kei Wan,0.747400534
+Shau Kei Wan,Heng Fa Chuen,1.166953697
+Heng Fa Chuen,Chai Wan,1.384624191
+South Horizons,Lei Tung,0.828360832
+Lei Tung,Wong Chuk Hang,1.477119393
+Wong Chuk Hang,Ocean Park,0.655402849
+Ocean Park,Admiralty,3.559408706
+North Point,Quarry Bay,1.024064606
+Quarry Bay,Yau Tong,2.943802284
+Yau Tong,Tiu Keng Leng,1.954101391
+Tiu Keng Leng,Tseung Kwan O,0.805048156
+Tseung Kwan O,Hang Hau,1.004318666
+Hang Hau,Po Lam,1.128687161
+Tseung Kwan O,LOHAS Park,1.881229408
+Hong Kong,Kowloon,2.243747945
+Kowloon,Olympic,1.502795438
+Olympic,Nam Cheong,1.206422035
+Nam Cheong,Lai King,3.707815248
+Lai King,Tsing Yi,2.213652838
+Tsing Yi,Sunny Bay,8.624910457
+Sunny Bay,Tung Chung,10.16959703
+Sunny Bay,Disneyland Resort,2.470227377
+Admiralty,Exhibition Centre,1.16604489
+Exhibition Centre,Hung Hom,2.389235564
+Hung Hom,Mong Kok East,2.362270744
+Mong Kok East,Kowloon Tong,1.715796007
+Kowloon Tong,Tai Wai,4.022571922
+Tai Wai,Sha Tin,1.323192698
+Sha Tin,Fo Tan,1.977312196
+Fo Tan,Racecourse,0.737601589
+Racecourse,University,1.547876126
+University,Tai Po Market,5.279632193
+Tai Po Market,Tai Wo,1.266449725
+Tai Wo,Fanling,5.136824168
+Fanling,Sheung Shui,1.429279911
+Tuen Mun,Siu Hong,1.755636413
+Siu Hong,Tin Shui Wai,6.227765576
+Tin Shui Wai,Long Ping,2.637921673
+Long Ping,Yuen Long,0.965815364
+Yuen Long,Kam Sheung Road,3.216640039
+Kam Sheung Road,Tsuen Wan West,8.827825539
+Tsuen Wan West,Mei Foo,4.388572644
+Mei Foo,Nam Cheong,2.012616524
+Nam Cheong,Austin,2.709276275
+Austin,East Tsim Sha Tsui,1.416148457
+East Tsim Sha Tsui,Hung Hom,1.136124598
+Hung Hom,Ho Man Tin,0.738886736
+Ho Man Tin,To Kwa Wan,1.107097585
+To Kwa Wan,Sung Wong Toi,0.936426564
+Sung Wong Toi,Kai Tak,0.994186508
+Kai Tak,Diamond Hill,1.073460471
+Diamond Hill,Hin Keng,4.137279281
+Hin Keng,Tai Wai,1.29508438
+Tai Wai,Che Kung Temple,0.818748766
+Che Kung Temple,Sha Tin Wai,1.246545888
+Sha Tin Wai,City One,0.84373983
+City One,Shek Mun,0.716279493
+Shek Mun,Tai Shui Hang,2.73778105
+Tai Shui Hang,Heng On,1.035551628
+Heng On,Ma On Shan,1.889544168
+Ma On Shan,Wu Kai Sha,0.407130912
